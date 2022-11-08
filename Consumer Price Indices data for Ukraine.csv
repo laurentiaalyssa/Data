@@ -1,0 +1,800 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+UKR,2000-01-01,2000-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2000,2000,,19.586001,I,base year is 2015
+UKR,2001-01-01,2001-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2001,2001,,23.565986,I,base year is 2015
+UKR,2002-01-01,2002-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2002,2002,,24.766656,I,base year is 2015
+UKR,2003-01-01,2003-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2003,2003,,24.766656,I,base year is 2015
+UKR,2004-01-01,2004-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2004,2004,,26.644501,I,base year is 2015
+UKR,2005-01-01,2005-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2005,2005,,29.643633,X,base year is 2015
+UKR,2006-01-01,2006-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2006,2006,,32.446077,X,base year is 2015
+UKR,2007-01-01,2007-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2007,2007,,33.068843,X,base year is 2015
+UKR,2008-01-01,2008-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2008,2008,,42.534877,X,base year is 2015
+UKR,2009-01-01,2009-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2009,2009,,52.312293,X,base year is 2015
+UKR,2010-01-01,2010-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2010,2010,,58.104011,X,base year is 2015
+UKR,2011-01-01,2011-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2011,2011,,63.086135,X,base year is 2015
+UKR,2012-01-01,2012-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2012,2012,,63.459794,X,base year is 2015
+UKR,2013-01-01,2013-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2013,2013,,62.089710,X,base year is 2015
+UKR,2014-01-01,2014-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2014,2014,,61.716051,X,base year is 2015
+UKR,2015-01-01,2015-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2015,2015,,80.336736,X,base year is 2015
+UKR,2016-01-01,2016-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2016,2016,,110.914517,X,base year is 2015
+UKR,2017-01-01,2017-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2017,2017,,114.215174,X,base year is 2015
+UKR,2018-01-01,2018-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2018,2018,,134.579602,X,base year is 2015
+UKR,2019-01-01,2019-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2019,2019,,145.228890,X,base year is 2015
+UKR,2020-01-01,2020-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2020,2020,,149.775078,X,base year is 2015
+UKR,2021-01-01,2021-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2021,2021,,158.556070,X,base year is 2015
+UKR,2022-01-01,2022-01-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2022,2022,,180.664241,A,base year is 2015
+UKR,2000-02-01,2000-02-29,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2000,2000,,20.166405,I,base year is 2015
+UKR,2001-02-01,2001-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2001,2001,,23.680535,I,base year is 2015
+UKR,2002-02-01,2002-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2002,2002,,24.481197,I,base year is 2015
+UKR,2003-02-01,2003-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2003,2003,,24.994842,I,base year is 2015
+UKR,2004-02-01,2004-02-29,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2004,2004,,26.757975,I,base year is 2015
+UKR,2005-02-01,2005-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2005,2005,,30.017292,X,base year is 2015
+UKR,2006-02-01,2006-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2006,2006,,33.317949,X,base year is 2015
+UKR,2007-02-01,2007-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2007,2007,,33.068843,X,base year is 2015
+UKR,2008-02-01,2008-02-29,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2008,2008,,44.154067,X,base year is 2015
+UKR,2009-02-01,2009-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2009,2009,,53.059612,X,base year is 2015
+UKR,2010-02-01,2010-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2010,2010,,60.159137,X,base year is 2015
+UKR,2011-02-01,2011-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2011,2011,,63.272964,X,base year is 2015
+UKR,2012-02-01,2012-02-29,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2012,2012,,63.646623,X,base year is 2015
+UKR,2013-02-01,2013-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2013,2013,,61.965157,X,base year is 2015
+UKR,2014-02-01,2014-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2014,2014,,62.463369,X,base year is 2015
+UKR,2015-02-01,2015-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2015,2015,,84.882923,X,base year is 2015
+UKR,2016-02-01,2016-02-29,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2016,2016,,110.104922,X,base year is 2015
+UKR,2017-02-01,2017-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2017,2017,,115.896640,X,base year is 2015
+UKR,2018-02-01,2018-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2018,2018,,135.949686,X,base year is 2015
+UKR,2019-02-01,2019-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2019,2019,,146.536698,X,base year is 2015
+UKR,2020-02-01,2020-02-29,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2020,2020,,149.152312,X,base year is 2015
+UKR,2021-02-01,2021-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2021,2021,,161.856726,X,base year is 2015
+UKR,2022-02-01,2022-02-28,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2022,2022,,185.023599,A,base year is 2015
+UKR,2000-03-01,2000-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2000,2000,,20.571923,I,base year is 2015
+UKR,2001-03-01,2001-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2001,2001,,23.852278,I,base year is 2015
+UKR,2002-03-01,2002-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2002,2002,,24.309798,I,base year is 2015
+UKR,2003-03-01,2003-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2003,2003,,25.279849,I,base year is 2015
+UKR,2004-03-01,2004-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2004,2004,,26.814699,I,base year is 2015
+UKR,2005-03-01,2005-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2005,2005,,30.702334,X,base year is 2015
+UKR,2006-03-01,2006-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2006,2006,,33.131119,X,base year is 2015
+UKR,2007-03-01,2007-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2007,2007,,33.131119,X,base year is 2015
+UKR,2008-03-01,2008-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2008,2008,,46.645128,X,base year is 2015
+UKR,2009-03-01,2009-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2009,2009,,53.869207,X,base year is 2015
+UKR,2010-03-01,2010-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2010,2010,,60.906456,X,base year is 2015
+UKR,2011-03-01,2011-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2011,2011,,64.393942,X,base year is 2015
+UKR,2012-03-01,2012-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2012,2012,,63.771177,X,base year is 2015
+UKR,2013-03-01,2013-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2013,2013,,61.778327,X,base year is 2015
+UKR,2014-03-01,2014-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2014,2014,,63.958006,X,base year is 2015
+UKR,2015-03-01,2015-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2015,2015,,98.147826,X,base year is 2015
+UKR,2016-03-01,2016-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2016,2016,,109.357604,X,base year is 2015
+UKR,2017-03-01,2017-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2017,2017,,117.204447,X,base year is 2015
+UKR,2018-03-01,2018-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2018,2018,,137.444323,X,base year is 2015
+UKR,2019-03-01,2019-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2019,2019,,147.097186,X,base year is 2015
+UKR,2020-03-01,2020-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2020,2020,,149.775078,X,base year is 2015
+UKR,2021-03-01,2021-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2021,2021,,165.281936,X,base year is 2015
+UKR,2022-03-01,2022-03-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2022,2022,,196.482482,A,base year is 2015
+UKR,2000-04-01,2000-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2000,2000,,20.861202,I,base year is 2015
+UKR,2001-04-01,2001-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2001,2001,,24.138306,I,base year is 2015
+UKR,2002-04-01,2002-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2002,2002,,24.595411,I,base year is 2015
+UKR,2003-04-01,2003-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2003,2003,,25.450735,I,base year is 2015
+UKR,2004-04-01,2004-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2004,2004,,26.984814,I,base year is 2015
+UKR,2005-04-01,2005-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2005,2005,,30.951440,X,base year is 2015
+UKR,2006-04-01,2006-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2006,2006,,32.944289,X,base year is 2015
+UKR,2007-04-01,2007-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2007,2007,,33.317949,X,base year is 2015
+UKR,2008-04-01,2008-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2008,2008,,49.073913,X,base year is 2015
+UKR,2009-04-01,2009-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2009,2009,,54.491972,X,base year is 2015
+UKR,2010-04-01,2010-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2010,2010,,60.595073,X,base year is 2015
+UKR,2011-04-01,2011-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2011,2011,,65.390367,X,base year is 2015
+UKR,2012-04-01,2012-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2012,2012,,63.646623,X,base year is 2015
+UKR,2013-04-01,2013-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2013,2013,,61.716051,X,base year is 2015
+UKR,2014-04-01,2014-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2014,2014,,66.635897,X,base year is 2015
+UKR,2015-04-01,2015-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2015,2015,,102.444908,X,base year is 2015
+UKR,2016-04-01,2016-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2016,2016,,109.482157,X,base year is 2015
+UKR,2017-04-01,2017-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2017,2017,,118.574531,X,base year is 2015
+UKR,2018-04-01,2018-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2018,2018,,138.938960,X,base year is 2015
+UKR,2019-04-01,2019-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2019,2019,,149.152312,X,base year is 2015
+UKR,2020-04-01,2020-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2020,2020,,152.888905,X,base year is 2015
+UKR,2021-04-01,2021-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2021,2021,,167.274785,A,base year is 2015
+UKR,2022-04-01,2022-04-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2022,2022,,204.765262,X,base year is 2015
+UKR,2000-05-01,2000-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2000,2000,,21.265675,I,base year is 2015
+UKR,2001-05-01,2001-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2001,2001,,24.252644,I,base year is 2015
+UKR,2002-05-01,2002-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2002,2002,,24.538309,I,base year is 2015
+UKR,2003-05-01,2003-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2003,2003,,25.450735,I,base year is 2015
+UKR,2004-05-01,2004-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2004,2004,,27.211506,I,base year is 2015
+UKR,2005-05-01,2005-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2005,2005,,31.138270,X,base year is 2015
+UKR,2006-05-01,2006-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2006,2006,,32.819736,X,base year is 2015
+UKR,2007-05-01,2007-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2007,2007,,33.691608,X,base year is 2015
+UKR,2008-05-01,2008-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2008,2008,,50.008061,X,base year is 2015
+UKR,2009-05-01,2009-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2009,2009,,54.678802,X,base year is 2015
+UKR,2010-05-01,2010-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2010,2010,,59.723201,X,base year is 2015
+UKR,2011-05-01,2011-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2011,2011,,65.888579,X,base year is 2015
+UKR,2012-05-01,2012-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2012,2012,,63.148411,X,base year is 2015
+UKR,2013-05-01,2013-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2013,2013,,61.716051,X,base year is 2015
+UKR,2014-05-01,2014-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2014,2014,,69.064682,X,base year is 2015
+UKR,2015-05-01,2015-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2015,2015,,105.621011,X,base year is 2015
+UKR,2016-05-01,2016-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2016,2016,,109.668986,X,base year is 2015
+UKR,2017-05-01,2017-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2017,2017,,121.314699,X,base year is 2015
+UKR,2018-05-01,2018-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2018,2018,,138.004812,X,base year is 2015
+UKR,2019-05-01,2019-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2019,2019,,150.646949,X,base year is 2015
+UKR,2020-05-01,2020-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2020,2020,,154.694924,X,base year is 2015
+UKR,2021-05-01,2021-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2021,2021,,170.077230,A,base year is 2015
+UKR,2022-05-01,2022-05-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2022,2022,,210.245598,X,base year is 2015
+UKR,2000-06-01,2000-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2000,2000,,22.015282,I,base year is 2015
+UKR,2001-06-01,2001-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2001,2001,,24.366941,I,base year is 2015
+UKR,2002-06-01,2002-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2002,2002,,24.138306,I,base year is 2015
+UKR,2003-06-01,2003-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2003,2003,,25.450735,I,base year is 2015
+UKR,2004-06-01,2004-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2004,2004,,27.381430,I,base year is 2015
+UKR,2005-06-01,2005-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2005,2005,,31.325099,X,base year is 2015
+UKR,2006-06-01,2006-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2006,2006,,32.757460,X,base year is 2015
+UKR,2007-06-01,2007-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2007,2007,,34.937139,X,base year is 2015
+UKR,2008-06-01,2008-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2008,2008,,50.319444,X,base year is 2015
+UKR,2009-06-01,2009-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2009,2009,,54.741078,X,base year is 2015
+UKR,2010-06-01,2010-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2010,2010,,59.162713,X,base year is 2015
+UKR,2011-06-01,2011-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2011,2011,,66.075408,X,base year is 2015
+UKR,2012-06-01,2012-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2012,2012,,62.774752,X,base year is 2015
+UKR,2013-06-01,2013-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2013,2013,,61.653774,X,base year is 2015
+UKR,2014-06-01,2014-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2014,2014,,69.500618,X,base year is 2015
+UKR,2015-06-01,2015-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2015,2015,,105.621011,X,base year is 2015
+UKR,2016-06-01,2016-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2016,2016,,109.046221,X,base year is 2015
+UKR,2017-06-01,2017-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2017,2017,,125.362674,X,base year is 2015
+UKR,2018-06-01,2018-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2018,2018,,137.319770,X,base year is 2015
+UKR,2019-06-01,2019-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2019,2019,,149.027759,X,base year is 2015
+UKR,2020-06-01,2020-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2020,2020,,155.317690,X,base year is 2015
+UKR,2021-06-01,2021-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2021,2021,,169.952677,A,base year is 2015
+UKR,2022-06-01,2022-06-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2022,2022,,217.033740,X,base year is 2015
+UKR,2000-07-01,2000-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2000,2000,,22.015282,I,base year is 2015
+UKR,2001-07-01,2001-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2001,2001,,24.023926,I,base year is 2015
+UKR,2002-07-01,2002-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2002,2002,,23.795041,I,base year is 2015
+UKR,2003-07-01,2003-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2003,2003,,25.450735,I,base year is 2015
+UKR,2004-07-01,2004-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2004,2004,,27.381430,I,base year is 2015
+UKR,2005-07-01,2005-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2005,2005,,31.325099,X,base year is 2015
+UKR,2006-07-01,2006-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2006,2006,,32.134694,X,base year is 2015
+UKR,2007-07-01,2007-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2007,2007,,35.746734,X,base year is 2015
+UKR,2008-07-01,2008-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2008,2008,,49.634402,X,base year is 2015
+UKR,2009-07-01,2009-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2009,2009,,54.616525,X,base year is 2015
+UKR,2010-07-01,2010-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2010,2010,,58.789053,X,base year is 2015
+UKR,2011-07-01,2011-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2011,2011,,64.393942,X,base year is 2015
+UKR,2012-07-01,2012-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2012,2012,,62.463369,X,base year is 2015
+UKR,2013-07-01,2013-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2013,2013,,61.466945,X,base year is 2015
+UKR,2014-07-01,2014-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2014,2014,,69.002406,X,base year is 2015
+UKR,2015-07-01,2015-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2015,2015,,103.503609,X,base year is 2015
+UKR,2016-07-01,2016-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2016,2016,,108.049796,X,base year is 2015
+UKR,2017-07-01,2017-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2017,2017,,125.736333,X,base year is 2015
+UKR,2018-07-01,2018-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2018,2018,,134.704155,X,base year is 2015
+UKR,2019-07-01,2019-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2019,2019,,147.969058,X,base year is 2015
+UKR,2020-07-01,2020-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2020,2020,,153.138011,X,base year is 2015
+UKR,2021-07-01,2021-07-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2021,2021,,169.765847,A,base year is 2015
+UKR,2000-08-01,2000-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2000,2000,,22.015282,I,base year is 2015
+UKR,2001-08-01,2001-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2001,2001,,23.966721,I,base year is 2015
+UKR,2002-08-01,2002-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2002,2002,,23.737793,I,base year is 2015
+UKR,2003-08-01,2003-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2003,2003,,25.051863,I,base year is 2015
+UKR,2004-08-01,2004-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2004,2004,,27.324798,I,base year is 2015
+UKR,2005-08-01,2005-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2005,2005,,31.075993,X,base year is 2015
+UKR,2006-08-01,2006-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2006,2006,,31.698759,X,base year is 2015
+UKR,2007-08-01,2007-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2007,2007,,35.995840,X,base year is 2015
+UKR,2008-08-01,2008-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2008,2008,,49.385296,X,base year is 2015
+UKR,2009-08-01,2009-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2009,2009,,53.931483,X,base year is 2015
+UKR,2010-08-01,2010-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2010,2010,,58.726777,X,base year is 2015
+UKR,2011-08-01,2011-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2011,2011,,63.584347,X,base year is 2015
+UKR,2012-08-01,2012-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2012,2012,,62.151987,X,base year is 2015
+UKR,2013-08-01,2013-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2013,2013,,60.532796,X,base year is 2015
+UKR,2014-08-01,2014-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2014,2014,,68.940129,X,base year is 2015
+UKR,2015-08-01,2015-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2015,2015,,101.759866,X,base year is 2015
+UKR,2016-08-01,2016-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2016,2016,,106.991095,X,base year is 2015
+UKR,2017-08-01,2017-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2017,2017,,124.989015,X,base year is 2015
+UKR,2018-08-01,2018-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2018,2018,,133.894560,X,base year is 2015
+UKR,2019-08-01,2019-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2019,2019,,147.533122,X,base year is 2015
+UKR,2020-08-01,2020-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2020,2020,,150.896055,X,base year is 2015
+UKR,2021-08-01,2021-08-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2021,2021,,168.582593,A,base year is 2015
+UKR,2000-09-01,2000-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2000,2000,,22.533089,I,base year is 2015
+UKR,2001-09-01,2001-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2001,2001,,24.023926,I,base year is 2015
+UKR,2002-09-01,2002-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2002,2002,,23.795041,I,base year is 2015
+UKR,2003-09-01,2003-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2003,2003,,25.165876,I,base year is 2015
+UKR,2004-09-01,2004-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2004,2004,,27.664457,I,base year is 2015
+UKR,2005-09-01,2005-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2005,2005,,30.889164,X,base year is 2015
+UKR,2006-09-01,2006-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2006,2006,,32.072418,X,base year is 2015
+UKR,2007-09-01,2007-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2007,2007,,37.116818,X,base year is 2015
+UKR,2008-09-01,2008-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2008,2008,,49.572126,X,base year is 2015
+UKR,2009-09-01,2009-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2009,2009,,54.118313,X,base year is 2015
+UKR,2010-09-01,2010-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2010,2010,,61.280115,X,base year is 2015
+UKR,2011-09-01,2011-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2011,2011,,63.397517,X,base year is 2015
+UKR,2012-09-01,2012-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2012,2012,,62.089710,X,base year is 2015
+UKR,2013-09-01,2013-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2013,2013,,60.470520,X,base year is 2015
+UKR,2014-09-01,2014-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2014,2014,,70.932979,X,base year is 2015
+UKR,2015-09-01,2015-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2015,2015,,102.943120,X,base year is 2015
+UKR,2016-09-01,2016-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2016,2016,,107.302478,X,base year is 2015
+UKR,2017-09-01,2017-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2017,2017,,127.480077,X,base year is 2015
+UKR,2018-09-01,2018-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2018,2018,,136.011962,X,base year is 2015
+UKR,2019-09-01,2019-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2019,2019,,147.969058,X,base year is 2015
+UKR,2020-09-01,2020-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2020,2020,,149.961907,X,base year is 2015
+UKR,2021-09-01,2021-09-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2021,2021,,170.450889,A,base year is 2015
+UKR,2000-10-01,2000-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2000,2000,,22.820364,I,base year is 2015
+UKR,2001-10-01,2001-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2001,2001,,24.081122,I,base year is 2015
+UKR,2002-10-01,2002-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2002,2002,,23.966721,I,base year is 2015
+UKR,2003-10-01,2003-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2003,2003,,25.507677,I,base year is 2015
+UKR,2004-10-01,2004-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2004,2004,,28.229845,I,base year is 2015
+UKR,2005-10-01,2005-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2005,2005,,31.138270,X,base year is 2015
+UKR,2006-10-01,2006-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2006,2006,,32.508354,X,base year is 2015
+UKR,2007-10-01,2007-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2007,2007,,38.736008,X,base year is 2015
+UKR,2008-10-01,2008-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2008,2008,,50.132614,X,base year is 2015
+UKR,2009-10-01,2009-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2009,2009,,54.491972,X,base year is 2015
+UKR,2010-10-01,2010-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2010,2010,,61.591498,X,base year is 2015
+UKR,2011-10-01,2011-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2011,2011,,63.210688,X,base year is 2015
+UKR,2012-10-01,2012-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2012,2012,,61.965157,X,base year is 2015
+UKR,2013-10-01,2013-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2013,2013,,60.844179,X,base year is 2015
+UKR,2014-10-01,2014-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2014,2014,,72.801275,X,base year is 2015
+UKR,2015-10-01,2015-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2015,2015,,104.126374,X,base year is 2015
+UKR,2016-10-01,2016-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2016,2016,,109.233050,X,base year is 2015
+UKR,2017-10-01,2017-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2017,2017,,128.850160,X,base year is 2015
+UKR,2018-10-01,2018-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2018,2018,,137.942535,X,base year is 2015
+UKR,2019-10-01,2019-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2019,2019,,149.276865,X,base year is 2015
+UKR,2020-10-01,2020-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2020,2020,,151.643374,X,base year is 2015
+UKR,2021-10-01,2021-10-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2021,2021,,172.319185,A,base year is 2015
+UKR,2000-11-01,2000-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2000,2000,,22.877785,I,base year is 2015
+UKR,2001-11-01,2001-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2001,2001,,24.195481,I,base year is 2015
+UKR,2002-11-01,2002-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2002,2002,,24.138306,I,base year is 2015
+UKR,2003-11-01,2003-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2003,2003,,25.906000,I,base year is 2015
+UKR,2004-11-01,2004-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2004,2004,,28.625098,I,base year is 2015
+UKR,2005-11-01,2005-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2005,2005,,31.574206,X,base year is 2015
+UKR,2006-11-01,2006-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2006,2006,,32.695183,X,base year is 2015
+UKR,2007-11-01,2007-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2007,2007,,39.607879,X,base year is 2015
+UKR,2008-11-01,2008-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2008,2008,,50.194891,X,base year is 2015
+UKR,2009-11-01,2009-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2009,2009,,55.363844,X,base year is 2015
+UKR,2010-11-01,2010-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2010,2010,,61.653774,X,base year is 2015
+UKR,2011-11-01,2011-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2011,2011,,63.210688,X,base year is 2015
+UKR,2012-11-01,2012-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2012,2012,,61.840604,X,base year is 2015
+UKR,2013-11-01,2013-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2013,2013,,60.968732,X,base year is 2015
+UKR,2014-11-01,2014-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2014,2014,,73.735423,X,base year is 2015
+UKR,2015-11-01,2015-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2015,2015,,106.679712,X,base year is 2015
+UKR,2016-11-01,2016-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2016,2016,,110.291752,X,base year is 2015
+UKR,2017-11-01,2017-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2017,2017,,130.033415,X,base year is 2015
+UKR,2018-11-01,2018-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2018,2018,,139.748555,X,base year is 2015
+UKR,2019-11-01,2019-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2019,2019,,149.027759,X,base year is 2015
+UKR,2020-11-01,2020-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2020,2020,,153.760776,X,base year is 2015
+UKR,2021-11-01,2021-11-30,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2021,2021,,174.187481,A,base year is 2015
+UKR,2000-12-01,2000-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2000,2000,,21.489194,A,base year is 2015
+UKR,2001-12-01,2001-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2001,2001,,23.208330,A,base year is 2015
+UKR,2002-12-01,2002-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2002,2002,,22.651330,A,base year is 2015
+UKR,2003-12-01,2003-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2003,2003,,25.165628,A,base year is 2015
+UKR,2004-12-01,2004-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2004,2004,,28.990803,A,base year is 2015
+UKR,2005-12-01,2005-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2005,2005,,31.947865,X,base year is 2015
+UKR,2006-12-01,2006-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2006,2006,,32.944289,X,base year is 2015
+UKR,2007-12-01,2007-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2007,2007,,40.791133,X,base year is 2015
+UKR,2008-12-01,2008-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2008,2008,,50.755380,X,base year is 2015
+UKR,2009-12-01,2009-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2009,2009,,56.297992,X,base year is 2015
+UKR,2010-12-01,2010-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2010,2010,,62.276540,X,base year is 2015
+UKR,2011-12-01,2011-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2011,2011,,63.335241,X,base year is 2015
+UKR,2012-12-01,2012-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2012,2012,,61.902880,X,base year is 2015
+UKR,2013-12-01,2013-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2013,2013,,61.466945,X,base year is 2015
+UKR,2014-12-01,2014-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2014,2014,,76.724697,X,base year is 2015
+UKR,2015-12-01,2015-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2015,2015,,108.548008,X,base year is 2015
+UKR,2016-12-01,2016-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2016,2016,,112.097771,X,base year is 2015
+UKR,2017-12-01,2017-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2017,2017,,131.963987,X,base year is 2015
+UKR,2018-12-01,2018-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2018,2018,,142.239616,X,base year is 2015
+UKR,2019-12-01,2019-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2019,2019,,149.027759,X,base year is 2015
+UKR,2020-12-01,2020-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2020,2020,,156.376391,X,base year is 2015
+UKR,2021-12-01,2021-12-31,230,'804,Ukraine,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2021,2021,,176.304884,A,base year is 2015
+UKR,2000-01-01,2000-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2000,2000,,17.421802,X,base year is 2015
+UKR,2001-01-01,2001-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2001,2001,,21.262391,X,base year is 2015
+UKR,2002-01-01,2002-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2002,2002,,22.431266,X,base year is 2015
+UKR,2003-01-01,2003-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2003,2003,,22.431266,X,base year is 2015
+UKR,2004-01-01,2004-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2004,2004,,24.268069,X,base year is 2015
+UKR,2005-01-01,2005-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2005,2005,,27.329408,X,base year is 2015
+UKR,2006-01-01,2006-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2006,2006,,30.001122,X,base year is 2015
+UKR,2007-01-01,2007-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2007,2007,,33.229443,X,base year is 2015
+UKR,2008-01-01,2008-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2008,2008,,39.686085,X,base year is 2015
+UKR,2009-01-01,2009-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2009,2009,,48.536138,X,base year is 2015
+UKR,2010-01-01,2010-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2010,2010,,53.879566,X,base year is 2015
+UKR,2011-01-01,2011-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2011,2011,,58.332423,X,base year is 2015
+UKR,2012-01-01,2012-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2012,2012,,60.558851,X,base year is 2015
+UKR,2013-01-01,2013-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2013,2013,,60.391869,A,base year is 2015
+UKR,2014-01-01,2014-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2014,2014,,60.670172,A,base year is 2015
+UKR,2015-01-01,2015-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2015,2015,,78.036314,A,base year is 2015
+UKR,2016-01-01,2016-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2016,2016,,109.484614,A,base year is 2015
+UKR,2017-01-01,2017-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2017,2017,,123.232809,A,base year is 2015
+UKR,2018-01-01,2018-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2018,2018,,140.654611,A,base year is 2015
+UKR,2019-01-01,2019-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2019,2019,,153.623556,A,base year is 2015
+UKR,2020-01-01,2020-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2020,2020,,158.633020,A,base year is 2015
+UKR,2021-01-01,2021-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2021,2021,,168.373644,A,base year is 2015
+UKR,2022-01-01,2022-01-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2022,2022,,185.238838,A,base year is 2015
+UKR,2000-02-01,2000-02-29,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2000,2000,,17.978409,X,base year is 2015
+UKR,2001-02-01,2001-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2001,2001,,21.373712,X,base year is 2015
+UKR,2002-02-01,2002-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2002,2002,,22.152962,X,base year is 2015
+UKR,2003-02-01,2003-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2003,2003,,22.653908,X,base year is 2015
+UKR,2004-02-01,2004-02-29,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2004,2004,,24.379390,X,base year is 2015
+UKR,2005-02-01,2005-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2005,2005,,27.552051,X,base year is 2015
+UKR,2006-02-01,2006-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2006,2006,,30.502068,X,base year is 2015
+UKR,2007-02-01,2007-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2007,2007,,33.452086,X,base year is 2015
+UKR,2008-02-01,2008-02-29,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2008,2008,,40.743639,X,base year is 2015
+UKR,2009-02-01,2009-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2009,2009,,49.204066,X,base year is 2015
+UKR,2010-02-01,2010-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2010,2010,,54.937119,X,base year is 2015
+UKR,2011-02-01,2011-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2011,2011,,58.833369,X,base year is 2015
+UKR,2012-02-01,2012-02-29,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2012,2012,,60.670172,X,base year is 2015
+UKR,2013-02-01,2013-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2013,2013,,60.336208,A,base year is 2015
+UKR,2014-02-01,2014-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2014,2014,,61.059797,A,base year is 2015
+UKR,2015-02-01,2015-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2015,2015,,82.210867,A,base year is 2015
+UKR,2016-02-01,2016-02-29,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2016,2016,,109.039328,A,base year is 2015
+UKR,2017-02-01,2017-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2017,2017,,124.457345,A,base year is 2015
+UKR,2018-02-01,2018-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2018,2018,,141.934807,A,base year is 2015
+UKR,2019-02-01,2019-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2019,2019,,154.402806,A,base year is 2015
+UKR,2020-02-01,2020-02-29,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2020,2020,,158.132073,A,base year is 2015
+UKR,2021-02-01,2021-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2021,2021,,170.043465,A,base year is 2015
+UKR,2022-02-01,2022-02-28,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2022,2022,,188.188856,A,base year is 2015
+UKR,2000-03-01,2000-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2000,2000,,18.368034,X,base year is 2015
+UKR,2001-03-01,2001-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2001,2001,,21.540694,X,base year is 2015
+UKR,2002-03-01,2002-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2002,2002,,21.985980,X,base year is 2015
+UKR,2003-03-01,2003-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2003,2003,,22.932212,X,base year is 2015
+UKR,2004-03-01,2004-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2004,2004,,24.435051,X,base year is 2015
+UKR,2005-03-01,2005-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2005,2005,,27.997336,X,base year is 2015
+UKR,2006-03-01,2006-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2006,2006,,30.446408,X,base year is 2015
+UKR,2007-03-01,2007-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2007,2007,,33.507747,X,base year is 2015
+UKR,2008-03-01,2008-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2008,2008,,42.302139,X,base year is 2015
+UKR,2009-03-01,2009-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2009,2009,,49.927656,X,base year is 2015
+UKR,2010-03-01,2010-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2010,2010,,55.382405,X,base year is 2015
+UKR,2011-03-01,2011-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2011,2011,,59.668280,X,base year is 2015
+UKR,2012-03-01,2012-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2012,2012,,60.837155,X,base year is 2015
+UKR,2013-03-01,2013-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2013,2013,,60.336208,A,base year is 2015
+UKR,2014-03-01,2014-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2014,2014,,62.395654,A,base year is 2015
+UKR,2015-03-01,2015-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2015,2015,,91.060919,A,base year is 2015
+UKR,2016-03-01,2016-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2016,2016,,110.152542,A,base year is 2015
+UKR,2017-03-01,2017-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2017,2017,,126.739434,A,base year is 2015
+UKR,2018-03-01,2018-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2018,2018,,143.493307,A,base year is 2015
+UKR,2019-03-01,2019-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2019,2019,,155.794324,A,base year is 2015
+UKR,2020-03-01,2020-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2020,2020,,159.412270,A,base year is 2015
+UKR,2021-03-01,2021-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2021,2021,,172.937822,A,base year is 2015
+UKR,2022-03-01,2022-03-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2022,2022,,196.649284,A,base year is 2015
+UKR,2000-04-01,2000-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2000,2000,,18.646337,X,base year is 2015
+UKR,2001-04-01,2001-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2001,2001,,21.818998,X,base year is 2015
+UKR,2002-04-01,2002-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2002,2002,,22.264283,X,base year is 2015
+UKR,2003-04-01,2003-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2003,2003,,23.099194,X,base year is 2015
+UKR,2004-04-01,2004-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2004,2004,,24.602033,X,base year is 2015
+UKR,2005-04-01,2005-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2005,2005,,28.164319,X,base year is 2015
+UKR,2006-04-01,2006-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2006,2006,,30.335086,X,base year is 2015
+UKR,2007-04-01,2007-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2007,2007,,33.507747,X,base year is 2015
+UKR,2008-04-01,2008-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2008,2008,,43.582335,X,base year is 2015
+UKR,2009-04-01,2009-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2009,2009,,50.372941,X,base year is 2015
+UKR,2010-04-01,2010-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2010,2010,,55.271084,X,base year is 2015
+UKR,2011-04-01,2011-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2011,2011,,60.447530,X,base year is 2015
+UKR,2012-04-01,2012-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2012,2012,,60.837155,X,base year is 2015
+UKR,2013-04-01,2013-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2013,2013,,60.336208,A,base year is 2015
+UKR,2014-04-01,2014-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2014,2014,,64.510761,A,base year is 2015
+UKR,2015-04-01,2015-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2015,2015,,103.807222,A,base year is 2015
+UKR,2016-04-01,2016-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2016,2016,,113.993131,A,base year is 2015
+UKR,2017-04-01,2017-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2017,2017,,127.852648,A,base year is 2015
+UKR,2018-04-01,2018-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2018,2018,,144.606521,A,base year is 2015
+UKR,2019-04-01,2019-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2019,2019,,157.352823,A,base year is 2015
+UKR,2020-04-01,2020-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2020,2020,,160.692466,A,base year is 2015
+UKR,2021-04-01,2021-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2021,2021,,174.162357,A,base year is 2015
+UKR,2022-04-01,2022-04-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2022,2022,,202.745412,A,base year is 2015
+UKR,2000-05-01,2000-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2000,2000,,19.035962,X,base year is 2015
+UKR,2001-05-01,2001-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2001,2001,,21.930319,X,base year is 2015
+UKR,2002-05-01,2002-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2002,2002,,22.208623,X,base year is 2015
+UKR,2003-05-01,2003-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2003,2003,,23.099194,X,base year is 2015
+UKR,2004-05-01,2004-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2004,2004,,24.824676,X,base year is 2015
+UKR,2005-05-01,2005-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2005,2005,,28.386961,X,base year is 2015
+UKR,2006-05-01,2006-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2006,2006,,30.446408,X,base year is 2015
+UKR,2007-05-01,2007-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2007,2007,,33.674729,X,base year is 2015
+UKR,2008-05-01,2008-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2008,2008,,44.138942,X,base year is 2015
+UKR,2009-05-01,2009-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2009,2009,,50.595584,X,base year is 2015
+UKR,2010-05-01,2010-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2010,2010,,54.937119,X,base year is 2015
+UKR,2011-05-01,2011-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2011,2011,,60.948476,X,base year is 2015
+UKR,2012-05-01,2012-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2012,2012,,60.670172,X,base year is 2015
+UKR,2013-05-01,2013-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2013,2013,,60.391869,A,base year is 2015
+UKR,2014-05-01,2014-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2014,2014,,66.959833,A,base year is 2015
+UKR,2015-05-01,2015-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2015,2015,,106.089311,A,base year is 2015
+UKR,2016-05-01,2016-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2016,2016,,114.104453,A,base year is 2015
+UKR,2017-05-01,2017-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2017,2017,,129.522469,A,base year is 2015
+UKR,2018-05-01,2018-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2018,2018,,144.606521,A,base year is 2015
+UKR,2019-05-01,2019-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2019,2019,,158.466038,A,base year is 2015
+UKR,2020-05-01,2020-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2020,2020,,161.137752,A,base year is 2015
+UKR,2021-05-01,2021-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2021,2021,,176.388786,A,base year is 2015
+UKR,2022-05-01,2022-05-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2022,2022,,208.219538,A,base year is 2015
+UKR,2000-06-01,2000-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2000,2000,,19.759552,X,base year is 2015
+UKR,2001-06-01,2001-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2001,2001,,22.041641,X,base year is 2015
+UKR,2002-06-01,2002-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2002,2002,,21.818998,X,base year is 2015
+UKR,2003-06-01,2003-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2003,2003,,23.099194,X,base year is 2015
+UKR,2004-06-01,2004-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2004,2004,,24.991658,X,base year is 2015
+UKR,2005-06-01,2005-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2005,2005,,28.553944,X,base year is 2015
+UKR,2006-06-01,2006-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2006,2006,,30.502068,X,base year is 2015
+UKR,2007-06-01,2007-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2007,2007,,34.398318,X,base year is 2015
+UKR,2008-06-01,2008-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2008,2008,,44.528567,X,base year is 2015
+UKR,2009-06-01,2009-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2009,2009,,51.152191,X,base year is 2015
+UKR,2010-06-01,2010-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2010,2010,,54.714477,X,base year is 2015
+UKR,2011-06-01,2011-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2011,2011,,61.171119,X,base year is 2015
+UKR,2012-06-01,2012-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2012,2012,,60.447530,X,base year is 2015
+UKR,2013-06-01,2013-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2013,2013,,60.391869,A,base year is 2015
+UKR,2014-06-01,2014-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2014,2014,,67.633327,A,base year is 2015
+UKR,2015-06-01,2015-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2015,2015,,106.534596,A,base year is 2015
+UKR,2016-06-01,2016-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2016,2016,,113.881810,A,base year is 2015
+UKR,2017-06-01,2017-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2017,2017,,131.581915,A,base year is 2015
+UKR,2018-06-01,2018-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2018,2018,,144.606521,A,base year is 2015
+UKR,2019-06-01,2019-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2019,2019,,157.686788,A,base year is 2015
+UKR,2020-06-01,2020-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2020,2020,,161.471716,A,base year is 2015
+UKR,2021-06-01,2021-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2021,2021,,176.778411,A,base year is 2015
+UKR,2022-06-01,2022-06-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2022,2022,,214.674343,A,base year is 2015
+UKR,2000-07-01,2000-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2000,2000,,19.759552,X,base year is 2015
+UKR,2001-07-01,2001-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2001,2001,,21.707676,X,base year is 2015
+UKR,2002-07-01,2002-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2002,2002,,21.485034,X,base year is 2015
+UKR,2003-07-01,2003-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2003,2003,,23.099194,X,base year is 2015
+UKR,2004-07-01,2004-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2004,2004,,24.991658,X,base year is 2015
+UKR,2005-07-01,2005-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2005,2005,,28.665265,X,base year is 2015
+UKR,2006-07-01,2006-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2006,2006,,30.724711,X,base year is 2015
+UKR,2007-07-01,2007-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2007,2007,,34.899264,X,base year is 2015
+UKR,2008-07-01,2008-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2008,2008,,44.305924,X,base year is 2015
+UKR,2009-07-01,2009-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2009,2009,,51.096531,X,base year is 2015
+UKR,2010-07-01,2010-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2010,2010,,54.603155,X,base year is 2015
+UKR,2011-07-01,2011-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2011,2011,,60.391869,X,base year is 2015
+UKR,2012-07-01,2012-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2012,2012,,60.336208,X,base year is 2015
+UKR,2013-07-01,2013-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2013,2013,,60.336208,A,base year is 2015
+UKR,2014-07-01,2014-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2014,2014,,67.911631,A,base year is 2015
+UKR,2015-07-01,2015-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2015,2015,,105.477043,A,base year is 2015
+UKR,2016-07-01,2016-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2016,2016,,113.770489,A,base year is 2015
+UKR,2017-07-01,2017-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2017,2017,,131.860219,A,base year is 2015
+UKR,2018-07-01,2018-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2018,2018,,143.604628,A,base year is 2015
+UKR,2019-07-01,2019-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2019,2019,,156.740556,A,base year is 2015
+UKR,2020-07-01,2020-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2020,2020,,160.525484,A,base year is 2015
+UKR,2021-07-01,2021-07-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2021,2021,,176.945393,A,base year is 2015
+UKR,2000-08-01,2000-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2000,2000,,19.759552,X,base year is 2015
+UKR,2001-08-01,2001-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2001,2001,,21.652016,X,base year is 2015
+UKR,2002-08-01,2002-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2002,2002,,21.429373,X,base year is 2015
+UKR,2003-08-01,2003-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2003,2003,,22.709569,X,base year is 2015
+UKR,2004-08-01,2004-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2004,2004,,24.935997,X,base year is 2015
+UKR,2005-08-01,2005-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2005,2005,,28.665265,X,base year is 2015
+UKR,2006-08-01,2006-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2006,2006,,30.724711,X,base year is 2015
+UKR,2007-08-01,2007-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2007,2007,,35.121907,X,base year is 2015
+UKR,2008-08-01,2008-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2008,2008,,44.250263,X,base year is 2015
+UKR,2009-08-01,2009-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2009,2009,,50.985209,X,base year is 2015
+UKR,2010-08-01,2010-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2010,2010,,55.215423,X,base year is 2015
+UKR,2011-08-01,2011-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2011,2011,,60.113565,X,base year is 2015
+UKR,2012-08-01,2012-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2012,2012,,60.113565,X,base year is 2015
+UKR,2013-08-01,2013-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2013,2013,,59.890923,A,base year is 2015
+UKR,2014-08-01,2014-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2014,2014,,68.468238,A,base year is 2015
+UKR,2015-08-01,2015-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2015,2015,,104.642132,A,base year is 2015
+UKR,2016-08-01,2016-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2016,2016,,113.436524,A,base year is 2015
+UKR,2017-08-01,2017-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2017,2017,,131.748897,A,base year is 2015
+UKR,2018-08-01,2018-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2018,2018,,143.604628,A,base year is 2015
+UKR,2019-08-01,2019-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2019,2019,,156.239609,A,base year is 2015
+UKR,2020-08-01,2020-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2020,2020,,160.191520,A,base year is 2015
+UKR,2021-08-01,2021-08-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2021,2021,,176.555768,A,base year is 2015
+UKR,2000-09-01,2000-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2000,2000,,20.260498,X,base year is 2015
+UKR,2001-09-01,2001-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2001,2001,,21.707676,X,base year is 2015
+UKR,2002-09-01,2002-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2002,2002,,21.485034,X,base year is 2015
+UKR,2003-09-01,2003-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2003,2003,,22.820891,X,base year is 2015
+UKR,2004-09-01,2004-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2004,2004,,25.269962,X,base year is 2015
+UKR,2005-09-01,2005-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2005,2005,,28.776586,X,base year is 2015
+UKR,2006-09-01,2006-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2006,2006,,31.336979,X,base year is 2015
+UKR,2007-09-01,2007-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2007,2007,,35.845496,X,base year is 2015
+UKR,2008-09-01,2008-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2008,2008,,44.695549,X,base year is 2015
+UKR,2009-09-01,2009-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2009,2009,,51.486156,X,base year is 2015
+UKR,2010-09-01,2010-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2010,2010,,56.829584,X,base year is 2015
+UKR,2011-09-01,2011-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2011,2011,,60.169226,X,base year is 2015
+UKR,2012-09-01,2012-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2012,2012,,60.169226,X,base year is 2015
+UKR,2013-09-01,2013-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2013,2013,,59.890923,A,base year is 2015
+UKR,2014-09-01,2014-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2014,2014,,70.472023,A,base year is 2015
+UKR,2015-09-01,2015-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2015,2015,,107.035543,A,base year is 2015
+UKR,2016-09-01,2016-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2016,2016,,115.440310,A,base year is 2015
+UKR,2017-09-01,2017-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2017,2017,,134.364951,A,base year is 2015
+UKR,2018-09-01,2018-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2018,2018,,146.332003,A,base year is 2015
+UKR,2019-09-01,2019-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2019,2019,,157.352823,A,base year is 2015
+UKR,2020-09-01,2020-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2020,2020,,160.970769,A,base year is 2015
+UKR,2021-09-01,2021-09-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2021,2021,,178.670875,A,base year is 2015
+UKR,2000-10-01,2000-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2000,2000,,20.538802,X,base year is 2015
+UKR,2001-10-01,2001-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2001,2001,,21.763337,X,base year is 2015
+UKR,2002-10-01,2002-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2002,2002,,21.652016,X,base year is 2015
+UKR,2003-10-01,2003-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2003,2003,,23.154855,X,base year is 2015
+UKR,2004-10-01,2004-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2004,2004,,25.826569,X,base year is 2015
+UKR,2005-10-01,2005-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2005,2005,,28.999229,X,base year is 2015
+UKR,2006-10-01,2006-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2006,2006,,32.171890,X,base year is 2015
+UKR,2007-10-01,2007-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2007,2007,,36.903050,X,base year is 2015
+UKR,2008-10-01,2008-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2008,2008,,45.530460,X,base year is 2015
+UKR,2009-10-01,2009-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2009,2009,,51.931441,X,base year is 2015
+UKR,2010-10-01,2010-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2010,2010,,57.107887,X,base year is 2015
+UKR,2011-10-01,2011-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2011,2011,,60.169226,X,base year is 2015
+UKR,2012-10-01,2012-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2012,2012,,60.169226,X,base year is 2015
+UKR,2013-10-01,2013-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2013,2013,,60.169226,A,base year is 2015
+UKR,2014-10-01,2014-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2014,2014,,72.141845,A,base year is 2015
+UKR,2015-10-01,2015-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2015,2015,,105.644025,A,base year is 2015
+UKR,2016-10-01,2016-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2016,2016,,118.668631,A,base year is 2015
+UKR,2017-10-01,2017-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2017,2017,,135.979111,A,base year is 2015
+UKR,2018-10-01,2018-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2018,2018,,148.836735,A,base year is 2015
+UKR,2019-10-01,2019-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2019,2019,,158.466038,A,base year is 2015
+UKR,2020-10-01,2020-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2020,2020,,162.584930,A,base year is 2015
+UKR,2021-10-01,2021-10-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2021,2021,,180.285035,A,base year is 2015
+UKR,2000-11-01,2000-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2000,2000,,20.594462,X,base year is 2015
+UKR,2001-11-01,2001-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2001,2001,,21.874659,X,base year is 2015
+UKR,2002-11-01,2002-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2002,2002,,21.818998,X,base year is 2015
+UKR,2003-11-01,2003-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2003,2003,,23.544480,X,base year is 2015
+UKR,2004-11-01,2004-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2004,2004,,26.216194,X,base year is 2015
+UKR,2005-11-01,2005-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2005,2005,,29.333193,X,base year is 2015
+UKR,2006-11-01,2006-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2006,2006,,32.728497,X,base year is 2015
+UKR,2007-11-01,2007-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2007,2007,,37.793621,X,base year is 2015
+UKR,2008-11-01,2008-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2008,2008,,46.142727,X,base year is 2015
+UKR,2009-11-01,2009-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2009,2009,,52.432388,X,base year is 2015
+UKR,2010-11-01,2010-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2010,2010,,57.274869,X,base year is 2015
+UKR,2011-11-01,2011-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2011,2011,,60.280547,X,base year is 2015
+UKR,2012-11-01,2012-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2012,2012,,60.113565,X,base year is 2015
+UKR,2013-11-01,2013-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2013,2013,,60.280547,A,base year is 2015
+UKR,2014-11-01,2014-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2014,2014,,73.533362,A,base year is 2015
+UKR,2015-11-01,2015-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2015,2015,,107.759132,A,base year is 2015
+UKR,2016-11-01,2016-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2016,2016,,120.839399,A,base year is 2015
+UKR,2017-11-01,2017-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2017,2017,,137.203647,A,base year is 2015
+UKR,2018-11-01,2018-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2018,2018,,150.896181,A,base year is 2015
+UKR,2019-11-01,2019-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2019,2019,,158.633020,A,base year is 2015
+UKR,2020-11-01,2020-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2020,2020,,164.700037,A,base year is 2015
+UKR,2021-11-01,2021-11-30,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2021,2021,,181.732214,A,base year is 2015
+UKR,2000-12-01,2000-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2000,2000,,20.928426,X,base year is 2015
+UKR,2001-12-01,2001-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2001,2001,,22.208623,X,base year is 2015
+UKR,2002-12-01,2002-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2002,2002,,22.097301,X,base year is 2015
+UKR,2003-12-01,2003-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2003,2003,,23.934105,X,base year is 2015
+UKR,2004-12-01,2004-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2004,2004,,26.884122,X,base year is 2015
+UKR,2005-12-01,2005-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2005,2005,,29.611497,X,base year is 2015
+UKR,2006-12-01,2006-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2006,2006,,33.062461,X,base year is 2015
+UKR,2007-12-01,2007-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2007,2007,,38.517210,X,base year is 2015
+UKR,2008-12-01,2008-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2008,2008,,47.144620,X,base year is 2015
+UKR,2009-12-01,2009-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2009,2009,,52.988995,X,base year is 2015
+UKR,2010-12-01,2010-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2010,2010,,57.775816,X,base year is 2015
+UKR,2011-12-01,2011-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2011,2011,,60.391869,X,base year is 2015
+UKR,2012-12-01,2012-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2012,2012,,60.224887,X,base year is 2015
+UKR,2013-12-01,2013-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2013,2013,,60.558851,A,base year is 2015
+UKR,2014-12-01,2014-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2014,2014,,75.704130,A,base year is 2015
+UKR,2015-12-01,2015-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2015,2015,,108.482721,A,base year is 2015
+UKR,2016-12-01,2016-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2016,2016,,121.896952,A,base year is 2015
+UKR,2017-12-01,2017-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2017,2017,,138.595165,A,base year is 2015
+UKR,2018-12-01,2018-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2018,2018,,152.120717,A,base year is 2015
+UKR,2019-12-01,2019-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2019,2019,,158.299055,A,base year is 2015
+UKR,2020-12-01,2020-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2020,2020,,166.202876,A,base year is 2015
+UKR,2021-12-01,2021-12-31,230,'804,Ukraine,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2021,2021,,182.845428,A,base year is 2015
+UKR,2001-01-01,2001-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2001,2001,%,20.320559,E,
+UKR,2002-01-01,2002-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2002,2002,%,5.094930,E,
+UKR,2003-01-01,2003-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2003,2003,%,0.000000,E,
+UKR,2004-01-01,2004-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2004,2004,%,7.582147,E,
+UKR,2005-01-01,2005-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2005,2005,%,11.256102,E,
+UKR,2006-01-01,2006-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2006,2006,%,9.453782,E,
+UKR,2007-01-01,2007-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2007,2007,%,1.919386,E,
+UKR,2008-01-01,2008-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2008,2008,%,28.625235,E,
+UKR,2009-01-01,2009-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2009,2009,%,22.986823,E,
+UKR,2010-01-01,2010-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2010,2010,%,11.071429,E,
+UKR,2011-01-01,2011-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2011,2011,%,8.574491,E,
+UKR,2012-01-01,2012-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2012,2012,%,0.592300,E,
+UKR,2013-01-01,2013-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2013,2013,%,-2.158979,E,
+UKR,2014-01-01,2014-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2014,2014,%,-0.601805,E,
+UKR,2015-01-01,2015-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2015,2015,%,30.171544,E,
+UKR,2016-01-01,2016-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2016,2016,%,38.062016,E,
+UKR,2017-01-01,2017-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2017,2017,%,2.975856,E,
+UKR,2018-01-01,2018-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2018,2018,%,17.829880,E,
+UKR,2019-01-01,2019-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2019,2019,%,7.913003,E,
+UKR,2020-01-01,2020-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2020,2020,%,3.130360,E,
+UKR,2021-01-01,2021-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2021,2021,%,5.862786,E,
+UKR,2022-01-01,2022-01-31,230,'804,Ukraine,23014,Food price inflation,7001,January,2022,2022,%,13.943441,E,
+UKR,2001-02-01,2001-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2001,2001,%,17.425661,E,
+UKR,2002-02-01,2002-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2002,2002,%,3.381097,E,
+UKR,2003-02-01,2003-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2003,2003,%,2.098122,E,
+UKR,2004-02-01,2004-02-29,230,'804,Ukraine,23014,Food price inflation,7002,February,2004,2004,%,7.053989,E,
+UKR,2005-02-01,2005-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2005,2005,%,12.180730,E,
+UKR,2006-02-01,2006-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2006,2006,%,10.995851,E,
+UKR,2007-02-01,2007-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2007,2007,%,-0.747664,E,
+UKR,2008-02-01,2008-02-29,230,'804,Ukraine,23014,Food price inflation,7002,February,2008,2008,%,33.521657,E,
+UKR,2009-02-01,2009-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2009,2009,%,20.169252,E,
+UKR,2010-02-01,2010-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2010,2010,%,13.380282,E,
+UKR,2011-02-01,2011-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2011,2011,%,5.175983,E,
+UKR,2012-02-01,2012-02-29,230,'804,Ukraine,23014,Food price inflation,7002,February,2012,2012,%,0.590551,E,
+UKR,2013-02-01,2013-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2013,2013,%,-2.641879,E,
+UKR,2014-02-01,2014-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2014,2014,%,0.804020,E,
+UKR,2015-02-01,2015-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2015,2015,%,35.892323,E,
+UKR,2016-02-01,2016-02-29,230,'804,Ukraine,23014,Food price inflation,7002,February,2016,2016,%,29.713866,E,
+UKR,2017-02-01,2017-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2017,2017,%,5.260181,E,
+UKR,2018-02-01,2018-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2018,2018,%,17.302526,E,
+UKR,2019-02-01,2019-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2019,2019,%,7.787448,E,
+UKR,2020-02-01,2020-02-29,230,'804,Ukraine,23014,Food price inflation,7002,February,2020,2020,%,1.784955,E,
+UKR,2021-02-01,2021-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2021,2021,%,8.517745,E,
+UKR,2022-02-01,2022-02-28,230,'804,Ukraine,23014,Food price inflation,7002,February,2022,2022,%,14.313197,E,
+UKR,2001-03-01,2001-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2001,2001,%,15.945788,E,
+UKR,2002-03-01,2002-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2002,2002,%,1.918139,E,
+UKR,2003-03-01,2003-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2003,2003,%,3.990371,E,
+UKR,2004-03-01,2004-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2004,2004,%,6.071436,E,
+UKR,2005-03-01,2005-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2005,2005,%,14.498149,E,
+UKR,2006-03-01,2006-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2006,2006,%,7.910751,E,
+UKR,2007-03-01,2007-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2007,2007,%,0.000000,E,
+UKR,2008-03-01,2008-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2008,2008,%,40.789474,E,
+UKR,2009-03-01,2009-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2009,2009,%,15.487316,E,
+UKR,2010-03-01,2010-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2010,2010,%,13.063584,E,
+UKR,2011-03-01,2011-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2011,2011,%,5.725971,E,
+UKR,2012-03-01,2012-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2012,2012,%,-0.967118,E,
+UKR,2013-03-01,2013-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2013,2013,%,-3.125000,E,
+UKR,2014-03-01,2014-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2014,2014,%,3.528226,E,
+UKR,2015-03-01,2015-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2015,2015,%,53.456670,E,
+UKR,2016-03-01,2016-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2016,2016,%,11.421320,E,
+UKR,2017-03-01,2017-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2017,2017,%,7.175399,E,
+UKR,2018-03-01,2018-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2018,2018,%,17.268863,E,
+UKR,2019-03-01,2019-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2019,2019,%,7.023108,E,
+UKR,2020-03-01,2020-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2020,2020,%,1.820491,E,
+UKR,2021-03-01,2021-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2021,2021,%,10.353430,E,
+UKR,2022-03-01,2022-03-31,230,'804,Ukraine,23014,Food price inflation,7003,March,2022,2022,%,18.877167,E,
+UKR,2001-04-01,2001-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2001,2001,%,15.709089,E,
+UKR,2002-04-01,2002-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2002,2002,%,1.893690,E,
+UKR,2003-04-01,2003-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2003,2003,%,3.477573,E,
+UKR,2004-04-01,2004-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2004,2004,%,6.027644,E,
+UKR,2005-04-01,2005-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2005,2005,%,14.699475,E,
+UKR,2006-04-01,2006-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2006,2006,%,6.438632,E,
+UKR,2007-04-01,2007-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2007,2007,%,1.134216,E,
+UKR,2008-04-01,2008-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2008,2008,%,47.289720,E,
+UKR,2009-04-01,2009-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2009,2009,%,11.040609,E,
+UKR,2010-04-01,2010-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2010,2010,%,11.200000,E,
+UKR,2011-04-01,2011-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2011,2011,%,7.913669,E,
+UKR,2012-04-01,2012-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2012,2012,%,-2.666667,E,
+UKR,2013-04-01,2013-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2013,2013,%,-3.033268,E,
+UKR,2014-04-01,2014-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2014,2014,%,7.971746,E,
+UKR,2015-04-01,2015-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2015,2015,%,53.738318,E,
+UKR,2016-04-01,2016-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2016,2016,%,6.869301,E,
+UKR,2017-04-01,2017-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2017,2017,%,8.304892,E,
+UKR,2018-04-01,2018-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2018,2018,%,17.174370,E,
+UKR,2019-04-01,2019-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2019,2019,%,7.350964,E,
+UKR,2020-04-01,2020-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2020,2020,%,2.505219,E,
+UKR,2021-04-01,2021-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2021,2021,%,9.409369,E,
+UKR,2022-04-01,2022-04-30,230,'804,Ukraine,23014,Food price inflation,7004,April,2022,2022,%,22.412509,E,
+UKR,2001-05-01,2001-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2001,2001,%,14.045965,E,
+UKR,2002-05-01,2002-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2002,2002,%,1.177869,E,
+UKR,2003-05-01,2003-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2003,2003,%,3.718372,E,
+UKR,2004-05-01,2004-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2004,2004,%,6.918354,E,
+UKR,2005-05-01,2005-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2005,2005,%,14.430526,E,
+UKR,2006-05-01,2006-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2006,2006,%,5.400000,E,
+UKR,2007-05-01,2007-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2007,2007,%,2.656546,E,
+UKR,2008-05-01,2008-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2008,2008,%,48.428835,E,
+UKR,2009-05-01,2009-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2009,2009,%,9.339975,E,
+UKR,2010-05-01,2010-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2010,2010,%,9.225513,E,
+UKR,2011-05-01,2011-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2011,2011,%,10.323253,E,
+UKR,2012-05-01,2012-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2012,2012,%,-4.158790,E,
+UKR,2013-05-01,2013-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2013,2013,%,-2.268245,E,
+UKR,2014-05-01,2014-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2014,2014,%,11.907164,E,
+UKR,2015-05-01,2015-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2015,2015,%,52.930568,E,
+UKR,2016-05-01,2016-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2016,2016,%,3.832547,E,
+UKR,2017-05-01,2017-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2017,2017,%,10.618966,E,
+UKR,2018-05-01,2018-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2018,2018,%,13.757700,E,
+UKR,2019-05-01,2019-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2019,2019,%,9.160650,E,
+UKR,2020-05-01,2020-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2020,2020,%,2.687061,E,
+UKR,2021-05-01,2021-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2021,2021,%,9.943639,E,
+UKR,2022-05-01,2022-05-31,230,'804,Ukraine,23014,Food price inflation,7005,May,2022,2022,%,23.617722,E,
+UKR,2001-06-01,2001-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2001,2001,%,10.681938,E,
+UKR,2002-06-01,2002-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2002,2002,%,-0.938299,E,
+UKR,2003-06-01,2003-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2003,2003,%,5.437118,E,
+UKR,2004-06-01,2004-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2004,2004,%,7.586012,E,
+UKR,2005-06-01,2005-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2005,2005,%,14.402714,E,
+UKR,2006-06-01,2006-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2006,2006,%,4.572565,E,
+UKR,2007-06-01,2007-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2007,2007,%,6.653992,E,
+UKR,2008-06-01,2008-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2008,2008,%,44.028520,E,
+UKR,2009-06-01,2009-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2009,2009,%,8.787129,E,
+UKR,2010-06-01,2010-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2010,2010,%,8.077361,E,
+UKR,2011-06-01,2011-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2011,2011,%,11.684211,E,
+UKR,2012-06-01,2012-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2012,2012,%,-4.995287,E,
+UKR,2013-06-01,2013-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2013,2013,%,-1.785714,E,
+UKR,2014-06-01,2014-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2014,2014,%,12.727273,E,
+UKR,2015-06-01,2015-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2015,2015,%,51.971326,E,
+UKR,2016-06-01,2016-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2016,2016,%,3.242925,E,
+UKR,2017-06-01,2017-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2017,2017,%,14.962878,E,
+UKR,2018-06-01,2018-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2018,2018,%,9.538003,E,
+UKR,2019-06-01,2019-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2019,2019,%,8.526077,E,
+UKR,2020-06-01,2020-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2020,2020,%,4.220644,E,
+UKR,2021-06-01,2021-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2021,2021,%,9.422614,E,
+UKR,2022-06-01,2022-06-30,230,'804,Ukraine,23014,Food price inflation,7006,June,2022,2022,%,27.702455,E,
+UKR,2001-07-01,2001-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2001,2001,%,9.123863,E,
+UKR,2002-07-01,2002-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2002,2002,%,-0.952740,E,
+UKR,2003-07-01,2003-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2003,2003,%,6.958146,E,
+UKR,2004-07-01,2004-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2004,2004,%,7.586012,E,
+UKR,2005-07-01,2005-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2005,2005,%,14.402714,E,
+UKR,2006-07-01,2006-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2006,2006,%,2.584493,E,
+UKR,2007-07-01,2007-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2007,2007,%,11.240310,E,
+UKR,2008-07-01,2008-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2008,2008,%,38.850174,E,
+UKR,2009-07-01,2009-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2009,2009,%,10.037641,E,
+UKR,2010-07-01,2010-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2010,2010,%,7.639681,E,
+UKR,2011-07-01,2011-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2011,2011,%,9.533898,E,
+UKR,2012-07-01,2012-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2012,2012,%,-2.998066,E,
+UKR,2013-07-01,2013-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2013,2013,%,-1.595214,E,
+UKR,2014-07-01,2014-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2014,2014,%,12.259372,E,
+UKR,2015-07-01,2015-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2015,2015,%,50.000000,E,
+UKR,2016-07-01,2016-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2016,2016,%,4.392298,E,
+UKR,2017-07-01,2017-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2017,2017,%,16.368876,E,
+UKR,2018-07-01,2018-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2018,2018,%,7.132244,E,
+UKR,2019-07-01,2019-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2019,2019,%,9.847434,E,
+UKR,2020-07-01,2020-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2020,2020,%,3.493266,E,
+UKR,2021-07-01,2021-07-31,230,'804,Ukraine,23014,Food price inflation,7007,July,2021,2021,%,10.858072,E,
+UKR,2001-08-01,2001-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2001,2001,%,8.864018,E,
+UKR,2002-08-01,2002-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2002,2002,%,-0.955190,E,
+UKR,2003-08-01,2003-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2003,2003,%,5.535772,E,
+UKR,2004-08-01,2004-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2004,2004,%,9.072917,E,
+UKR,2005-08-01,2005-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2005,2005,%,13.728172,E,
+UKR,2006-08-01,2006-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2006,2006,%,2.004008,E,
+UKR,2007-08-01,2007-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2007,2007,%,13.555992,E,
+UKR,2008-08-01,2008-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2008,2008,%,37.197232,E,
+UKR,2009-08-01,2009-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2009,2009,%,9.205549,E,
+UKR,2010-08-01,2010-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2010,2010,%,8.891455,E,
+UKR,2011-08-01,2011-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2011,2011,%,8.271474,E,
+UKR,2012-08-01,2012-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2012,2012,%,-2.252693,E,
+UKR,2013-08-01,2013-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2013,2013,%,-2.605210,E,
+UKR,2014-08-01,2014-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2014,2014,%,13.888889,E,
+UKR,2015-08-01,2015-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2015,2015,%,47.606143,E,
+UKR,2016-08-01,2016-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2016,2016,%,5.140759,E,
+UKR,2017-08-01,2017-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2017,2017,%,16.821886,E,
+UKR,2018-08-01,2018-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2018,2018,%,7.125062,E,
+UKR,2019-08-01,2019-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2019,2019,%,10.186047,E,
+UKR,2020-08-01,2020-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2020,2020,%,2.279443,E,
+UKR,2021-08-01,2021-08-31,230,'804,Ukraine,23014,Food price inflation,7008,August,2021,2021,%,11.721007,E,
+UKR,2001-09-01,2001-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2001,2001,%,6.616213,E,
+UKR,2002-09-01,2002-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2002,2002,%,-0.952740,E,
+UKR,2003-09-01,2003-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2003,2003,%,5.761012,E,
+UKR,2004-09-01,2004-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2004,2004,%,9.928447,E,
+UKR,2005-09-01,2005-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2005,2005,%,11.656498,E,
+UKR,2006-09-01,2006-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2006,2006,%,3.830645,E,
+UKR,2007-09-01,2007-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2007,2007,%,15.728155,E,
+UKR,2008-09-01,2008-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2008,2008,%,33.557047,E,
+UKR,2009-09-01,2009-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2009,2009,%,9.170854,E,
+UKR,2010-09-01,2010-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2010,2010,%,13.233602,E,
+UKR,2011-09-01,2011-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2011,2011,%,3.455285,E,
+UKR,2012-09-01,2012-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2012,2012,%,-2.062868,E,
+UKR,2013-09-01,2013-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2013,2013,%,-2.607823,E,
+UKR,2014-09-01,2014-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2014,2014,%,17.301751,E,
+UKR,2015-09-01,2015-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2015,2015,%,45.127305,E,
+UKR,2016-09-01,2016-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2016,2016,%,4.234725,E,
+UKR,2017-09-01,2017-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2017,2017,%,18.804411,E,
+UKR,2018-09-01,2018-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2018,2018,%,6.692721,E,
+UKR,2019-09-01,2019-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2019,2019,%,8.791209,E,
+UKR,2020-09-01,2020-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2020,2020,%,1.346801,E,
+UKR,2021-09-01,2021-09-30,230,'804,Ukraine,23014,Food price inflation,7009,September,2021,2021,%,13.662791,E,
+UKR,2001-10-01,2001-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2001,2001,%,5.524706,E,
+UKR,2002-10-01,2002-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2002,2002,%,-0.475064,E,
+UKR,2003-10-01,2003-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2003,2003,%,6.429565,E,
+UKR,2004-10-01,2004-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2004,2004,%,10.671956,E,
+UKR,2005-10-01,2005-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2005,2005,%,10.302661,E,
+UKR,2006-10-01,2006-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2006,2006,%,4.400000,E,
+UKR,2007-10-01,2007-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2007,2007,%,19.157088,E,
+UKR,2008-10-01,2008-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2008,2008,%,29.421222,E,
+UKR,2009-10-01,2009-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2009,2009,%,8.695652,E,
+UKR,2010-10-01,2010-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2010,2010,%,13.028571,E,
+UKR,2011-10-01,2011-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2011,2011,%,2.628918,E,
+UKR,2012-10-01,2012-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2012,2012,%,-1.970443,E,
+UKR,2013-10-01,2013-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2013,2013,%,-1.809045,E,
+UKR,2014-10-01,2014-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2014,2014,%,19.651996,E,
+UKR,2015-10-01,2015-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2015,2015,%,43.028229,E,
+UKR,2016-10-01,2016-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2016,2016,%,4.904306,E,
+UKR,2017-10-01,2017-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2017,2017,%,17.958951,E,
+UKR,2018-10-01,2018-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2018,2018,%,7.056549,E,
+UKR,2019-10-01,2019-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2019,2019,%,8.216704,E,
+UKR,2020-10-01,2020-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2020,2020,%,1.585315,E,
+UKR,2021-10-01,2021-10-31,230,'804,Ukraine,23014,Food price inflation,7010,October,2021,2021,%,13.634497,E,
+UKR,2001-11-01,2001-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2001,2001,%,5.759717,E,
+UKR,2002-11-01,2002-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2002,2002,%,-0.236301,E,
+UKR,2003-11-01,2003-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2003,2003,%,7.323188,E,
+UKR,2004-11-01,2004-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2004,2004,%,10.496016,E,
+UKR,2005-11-01,2005-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2005,2005,%,10.302525,E,
+UKR,2006-11-01,2006-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2006,2006,%,3.550296,E,
+UKR,2007-11-01,2007-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2007,2007,%,21.142857,E,
+UKR,2008-11-01,2008-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2008,2008,%,26.729560,E,
+UKR,2009-11-01,2009-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2009,2009,%,10.297767,E,
+UKR,2010-11-01,2010-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2010,2010,%,11.361080,E,
+UKR,2011-11-01,2011-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2011,2011,%,2.525253,E,
+UKR,2012-11-01,2012-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2012,2012,%,-2.167488,E,
+UKR,2013-11-01,2013-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2013,2013,%,-1.409869,E,
+UKR,2014-11-01,2014-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2014,2014,%,20.939734,E,
+UKR,2015-11-01,2015-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2015,2015,%,44.679054,E,
+UKR,2016-11-01,2016-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2016,2016,%,3.385873,E,
+UKR,2017-11-01,2017-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2017,2017,%,17.899492,E,
+UKR,2018-11-01,2018-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2018,2018,%,7.471264,E,
+UKR,2019-11-01,2019-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2019,2019,%,6.639929,E,
+UKR,2020-11-01,2020-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2020,2020,%,3.175930,E,
+UKR,2021-11-01,2021-11-30,230,'804,Ukraine,23014,Food price inflation,7011,November,2021,2021,%,13.284731,E,
+UKR,2001-12-01,2001-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2001,2001,%,8.000000,E,
+UKR,2002-12-01,2002-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2002,2002,%,-2.400000,E,
+UKR,2003-12-01,2003-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2003,2003,%,11.100000,E,
+UKR,2004-12-01,2004-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2004,2004,%,15.200000,E,
+UKR,2005-12-01,2005-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2005,2005,%,10.200000,E,
+UKR,2006-12-01,2006-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2006,2006,%,3.118908,E,
+UKR,2007-12-01,2007-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2007,2007,%,23.818526,E,
+UKR,2008-12-01,2008-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2008,2008,%,24.427481,E,
+UKR,2009-12-01,2009-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2009,2009,%,10.920245,E,
+UKR,2010-12-01,2010-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2010,2010,%,10.619469,E,
+UKR,2011-12-01,2011-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2011,2011,%,1.700000,E,
+UKR,2012-12-01,2012-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2012,2012,%,-2.261554,E,
+UKR,2013-12-01,2013-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2013,2013,%,-0.704225,E,
+UKR,2014-12-01,2014-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2014,2014,%,24.822695,E,
+UKR,2015-12-01,2015-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2015,2015,%,41.477273,E,
+UKR,2016-12-01,2016-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2016,2016,%,3.270224,E,
+UKR,2017-12-01,2017-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2017,2017,%,17.722222,E,
+UKR,2018-12-01,2018-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2018,2018,%,7.786692,E,
+UKR,2019-12-01,2019-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2019,2019,%,4.772329,E,
+UKR,2020-12-01,2020-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2020,2020,%,4.931049,E,
+UKR,2021-12-01,2021-12-31,230,'804,Ukraine,23014,Food price inflation,7012,December,2021,2021,%,12.743927,E,
